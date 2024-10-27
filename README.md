@@ -1,1 +1,1 @@
-# Desefio de código do bootcamp GFT Start #6 - Lógica de Programação da DIO
+# Desefio de projeto do bootcamp GFT Start #6 - Lógica de Programação da DIO
